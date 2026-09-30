@@ -11,3 +11,7 @@ node_modules/
 Thumbs.db
 .idea/
 .vscode/
+
+# Java build output
+build/
+*.class
